@@ -1,0 +1,6 @@
+{
+  "name": "Kroplówki24 - Mobilne i Stacjonarne Kroplówki Witaminowe",
+  "description": "Strona usługi kroplówek witaminowych z dojazdem do klienta oraz stacjonarnie (PL/EN). Rezerwacja terminu, pełna oferta zabiegów i formularz z integracją Resend API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
